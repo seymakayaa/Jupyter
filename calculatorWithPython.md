@@ -1,3 +1,4 @@
+```python
 def add(x, y):
     return x+y
 
@@ -21,3 +22,4 @@ print("Addition:", add(num1, num2))
 print("Substraction:", substract(num1, num2))
 print("Multiplication:", multiply(num1, num2))
 print("Division:", divide(num1, num2))
+```
